@@ -276,7 +276,13 @@ cd taskflow-backend
 
 ./mvnw spring-boot:run
 
-```
+-
+or
+-
+
+1-open with a java running app like Eclipse
+2-import -> existing maven project -> taskflow-backend
+
 
 
 
